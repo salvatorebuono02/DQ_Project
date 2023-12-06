@@ -1,8 +1,8 @@
 import pandas as pd
 
-from projects.A_data_collection import make_dataset_for_classification, make_dataset_for_regression, make_dataset_for_clustering
-from projects.D_data_analysis import classification, clustering, regression
-from projects.E_plot_results import plot
+from A_data_collection import make_dataset_for_classification, make_dataset_for_regression, make_dataset_for_clustering
+from D_data_analysis import classification, clustering, regression
+from E_plot_results import plot
 
 # DEFAULT PARAMETERS FOR CLASSIFICATION, REGRESSION & CLUSTERING
 # N.B. CAN BE CHANGED ACCORDING TO THE ASSIGNMENT GUIDELINES & THE DATA QUALITY ISSUE TO BE INJECTED
