@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-your_path = "/home/salvatore/Scrivania" # example of path
+your_path = "/home/salvatore/Scrivania/DQ_Project/" # example of path
 
 def mean(results_all):
     list_mean = []
